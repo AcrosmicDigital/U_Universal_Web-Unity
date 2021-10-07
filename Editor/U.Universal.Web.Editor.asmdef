@@ -1,0 +1,18 @@
+{
+    "name": "U.Universal.Web.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:309a7076079b3fb4c9db80ff658ffe13"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
